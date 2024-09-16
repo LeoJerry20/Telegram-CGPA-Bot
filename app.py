@@ -3,7 +3,7 @@ from flask import request
 from flask import Response
 import requests
  
-TOKEN ="6362394999:AAHOLbM6azwg8_qAyHpWtgJs8EPgOezNsH4"
+TOKEN ="YOURBOTTOKEN"
 app = Flask(__name__)
  
 def parse_message(message):
@@ -35,7 +35,7 @@ def index():
             for i in range(1,txt+1):
                 tel_send_message(chat_id,txt)
         else:
-            tel_send_message(chat_id,'send /start to calculate gpa')
+            tel_send_message(chat_id,'send /start to calculate GPA')
        
         return Response('ok', status=200)
     else:
