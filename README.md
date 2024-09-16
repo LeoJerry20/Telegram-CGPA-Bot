@@ -36,7 +36,7 @@ To set up this application, follow these steps:
 
 1)Send the Zip file of code and extract it.(Cgp.py and ngrok)
 
-2)search botfather→/start→/newbot(creation)→ Jaya(Botname)→Jaya_bot(username)
+2)search botfather→/start→/newbot(creation)→ Leo(Botname)→Leo_bot(username)
 
 3)Open file in VScode and change the api token in the code that u have copiedfrom telegram.
 
