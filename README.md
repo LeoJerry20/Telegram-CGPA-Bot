@@ -70,5 +70,5 @@ To use the Telegram bot, follow these steps:
 
 ## Credits
 
-This application was created by S.Jayachandran. Feel free to contribute to the project by submitting pull requests or reporting issues.
+This application was created by S.Leo Jerry. Feel free to contribute to the project by submitting pull requests or reporting issues.
 
